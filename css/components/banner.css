@@ -1,0 +1,31 @@
+a.btn-medium {
+  border: 2px solid white;
+  padding: 10px 15px;
+  border-radius: 21px;
+  color: white;
+  font-weight: lighter;
+  transition: all ease-in-out 0.8s;
+}
+
+a.btn-medium:hover {
+  color: #f30067;
+  border: 2px solid #f30067;
+  /* Your button CSS file */
+}
+
+.banner {
+  background-image: url('https://images.pexels.com/photos/315191/pexels-photo-315191.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+  height: 100vh;
+  background-size: cover;
+  background-position: top;
+  color: white;
+}
+.container-welcome {
+  width: 870px;
+  margin: 0 auto;
+  padding: 280px 60px;
+  text-shadow: 0 0 15px rgb(20, 20, 20);
+}
+.container-welcome h2 {
+  padding-bottom: 20px;
+}
